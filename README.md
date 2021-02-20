@@ -15,9 +15,9 @@ Puxar últimas imagens do instagram, para adicionar na nossa página web.
 ## Desafios
 
 - [x] Criar o back-end que irá se conectar com o instagram
-- [] Garimpar os dados
-- [] Preparar os dados
-- [] Salvar os dados em um arquivo local
+- [x] Garimpar os dados
+- [x] Preparar os dados
+- [x] Salvar os dados em um arquivo local
 - [] Consumir os dados do nosso arquivo local
 
 ## Next Level
