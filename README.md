@@ -18,7 +18,7 @@ Puxar últimas imagens do instagram, para adicionar na nossa página web.
 - [x] Garimpar os dados
 - [x] Preparar os dados
 - [x] Salvar os dados em um arquivo local
-- [] Consumir os dados do nosso arquivo local
+- [x] Consumir os dados do nosso arquivo local
 
 ## Next Level
 
