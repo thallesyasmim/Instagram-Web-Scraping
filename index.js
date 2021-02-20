@@ -19,7 +19,13 @@ async function start() {
 
     await browser.close()
 
-    console.log(imgList)
+
+    fs.writeFile('instagram.json', JSON.stringify(imgList, null, 2), err => {
+        if(err) throw new Error('something went wrong')
+
+        console.info('well done')
+
+    }) // Write to a file
 }
 
 start()
