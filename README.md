@@ -1,4 +1,4 @@
-# Web Scrapping
+# Web Scraping
 
 Pan data from other web sites
 
