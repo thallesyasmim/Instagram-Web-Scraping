@@ -1,26 +1,26 @@
 # Web Scrapping
 
-Garimpar dados de outros web sites
+Pan data from other web sites
 
-## Casos de uso
+## Use cases
 
-- Você precisa pegar dados de livros/roupas/calçados/materiais para montar uma loja virtual
-- Você quer saber quais os últimos anúncios de um determinado produto numa loja virtual
-- Você precisa pegar dados de uma plataforma de vídeos (imdb)
+- You need to get data from books / clothes / shoes / materials to set up an online store
+- You want to know the latest ads for a particular product in an online store
+- You need to get data from a video platform (imdb)
 
-## O que vamos fazer?
+## What do we do?
 
-Puxar últimas imagens do instagram, para adicionar na nossa página web.
+Pull the latest instagram images to add to our web page.
 
-## Desafios
+## Challenges
 
-- [x] Criar o back-end que irá se conectar com o instagram
-- [x] Garimpar os dados
-- [x] Preparar os dados
-- [x] Salvar os dados em um arquivo local
-- [x] Consumir os dados do nosso arquivo local
+- [x] Create the backend that will connect with instagram
+- [x] Panning the data
+- [x] Prepare the data
+- [x] Save the data to a local file
+- [x] Consume data from our local archive
 
 ## Next Level
 
-- [] Fazer uns dos casos de uso acima
-- [] Fazer o download de imagens e deixar numa pasta temporária
+- [] Do one of the use cases above
+- [] Download images and leave them in a temporary folder
